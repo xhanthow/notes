@@ -1,4 +1,0 @@
-* retrofitted
-* fledged 
-* infinite
-* cumbersome
